@@ -29,7 +29,9 @@ Building scalable systems, real-time applications, and AI-powered products
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Raj-dev08&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.shion.dev/api?username=Raj-dev08&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+
+![Streaks](https://streak-stats.demolab.com/?user=Raj-dev08&theme=dark&hide_border=false)<br/>
 
 ---
 

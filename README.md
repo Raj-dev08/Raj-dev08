@@ -6,8 +6,10 @@ Building scalable systems, real-time applications, and AI-powered products
 ---
 
 ## 🌐 Socials
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blush-phi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souptik-sen-442152365?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SouptikSen08)
 
 ---
 
@@ -29,22 +31,16 @@ Building scalable systems, real-time applications, and AI-powered products
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Raj-dev08&show_icons=true&hide_border=false&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Raj-dev08&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-dev08&layout=compact&hide_border=false&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-dev08&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=Raj-dev08&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Raj-dev08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Streak](https://streak-stats.demolab.com/?user=Raj-dev08&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 👀 Profile Views
 
-[![Views](https://komarev.com/ghpvc/?username=Raj-dev08&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
+![Views](https://komarev.com/ghpvc/?username=Raj-dev08&style=for-the-badge&color=0e75b6)
 
 ---

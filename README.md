@@ -33,8 +33,6 @@ Building scalable systems, real-time applications, and AI-powered products
 
 ![Streaks](https://streak-stats.demolab.com/?user=Raj-dev08&theme=dark&hide_border=false)<br/>
 
+![Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Raj-dev08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+
 ---
-
-## 👀 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=Raj-dev08&style=for-the-badge)

@@ -1,81 +1,50 @@
-Raj
+# ⚡ Raj
 
-Backend / Systems Engineer
-Building scalable systems, real-time apps, and AI-powered products
-
----
-
-🚀 About Me
-
-- Backend-focused developer with strong system design fundamentals
-- Experience building real-time, distributed, and AI-integrated systems
-- Comfortable with event-driven architecture, async processing, and infra
+Backend • Systems Engineer • AI Builder  
+Building scalable systems, real-time applications, and AI-powered products
 
 ---
 
-🔥 Featured Projects
-
-🧠 Partner AI
-
-Human-like AI companion with memory and personality
-
-- Redis-based short-term memory + vector DB long-term memory
-- RAG pipeline for contextual responses
-- Async workers (BullMQ) for background processing
-- Persona system with evolving interactions
+## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blush-phi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souptik-sen-442152365?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-⚡ HackIT
+## 💻 Tech Stack
 
-Microservices-based hackathon platform
-
-- Kafka-based event-driven architecture
-- Real-time communication using WebSockets
-- Encrypted chat + scalable backend services
-- Dockerized services with CI/CD pipelines
-
----
-
-👕 AiWardrobe
-
-AI-powered recommendation system
-
-- Embeddings-based similarity search
-- Vector database for personalized recommendations
-- Async pipelines for processing and retrieval
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-⚙️ Tech Stack
+## 📊 GitHub Stats
 
-Backend: Node.js, Express, MongoDB
-Systems: Redis, Kafka, BullMQ, WebSockets
-DevOps: Docker, CI/CD, Kubernetes (basics)
-Frontend: React, Next.js
-AI/ML: Embeddings, RAG, Vector Search
+![Stats](https://github-readme-stats.vercel.app/api?username=Raj-dev08&show_icons=true&hide_border=false&theme=dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-dev08&layout=compact&hide_border=false&theme=dark)
 
-📊 GitHub Stats
-
-"Raj's GitHub stats" (https://github-readme-stats.vercel.app/api?username=Raj-dev08&show_icons=true&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-dev08&layout=compact&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Raj-dev08&theme=dark)
 
 ---
 
-🌐 Links
+## 🏆 GitHub Trophies
 
-- Portfolio: (https://port-folio-blush-phi.vercel.app/)
-- LinkedIn: (https://www.linkedin.com/in/souptik-sen-442152365?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Raj-dev08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-⚡ What I'm Focused On
+## 👀 Profile Views
 
-- Scaling backend systems
-- Building AI-native products
-- Exploring distributed architectures
+[![Views](https://komarev.com/ghpvc/?username=Raj-dev08&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
 
 ---
